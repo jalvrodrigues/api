@@ -1,0 +1,202 @@
+[
+  {
+    "id: 0,
+    "nome": "oceano",
+    "img": "https://www.mundodeportivo.com/alfabeta/hero/2022/03/Minecraft-Oceano.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+    "precipitacao": "chuva",
+    "temperatura": 0.5,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 1,
+    "nome": "planicie",
+    "img": "https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/4/40/Grassland.png/revision/latest/scale-to-width-down/300?cb=20171217140650",
+    "precipitacao": "chuva",
+    "temperatura": 0.8,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 2,
+    "nome": "deserto",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNwbPCczFFQJ7z2PjqxMNK3e2apW6uBYwVA&usqp=CAU",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 3,
+    "nome": "montanhas",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxuNjhThulRqfMoe7sCtQK0Y8ynWYf4y6Wg&usqp=CAU",
+    "precipitacao": "chuva",
+    "temperatura": 0.2,
+    "dimensao": "overworld"
+  },
+   {
+    "id: 4,
+    "nome": "floresta",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NmKydLYKXtLojKniz5P3hdeOR_Oed7wl_TAdIzpgHPvgY2jhK6TVkVxs2EKZmTocac4&usqp=CAU",
+    "precipitacao": "chuva",
+    "temperatura": 0.7,
+    "dimensao": "overworld"
+  },
+   {
+    "id: 5,
+    "nome": "taiga",
+    "img": "https://pm1.aminoapps.com/6644/7bea41de1f2e4198c40492ea2cddc0d5395d9224_hq.jpg",
+    "precipitacao": "chuva",
+    "temperatura": 0.25,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 6,
+    "nome": "pantano",
+    "img": "https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/3/3e/Swamp.png/revision/latest?cb=20211103215643",
+    "precipitacao": "chuva",
+    "temperatura": 0.8,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 7 ,
+    "nome": "selva",
+    "img": "https://tm.ibxk.com.br/2012/1/materias/181642012535.jpg?ims=1200x675",
+    "precipitacao": "chuva",
+    "temperatura": 0.95,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 8 ,
+    "nome": "floresta de eucalipto",
+    "img": "https://staticg.sportskeeda.com/editor/2022/05/2f908-16514748619729-1920.jpg",
+    "precipitacao": "chuva",
+    "temperatura": 0.6,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 10 ,
+    "nome": "floresta escura",
+    "img": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/darkforest-carousel6.jpg",
+    "precipitacao": "chuva",
+    "temperatura": 0.7,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 11 ,
+    "nome": "taiga nevada",
+    "img": "https://www.digminecraft.com/getting_started/images/biome_cold_taiga.png",
+    "precipitacao": "neve",
+    "temperatura": -0.5,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 12 ,
+    "nome": "savana",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/c/cc/Savanna_Plateau.png?width=1280",
+    "precipitacao": "nenhuma",
+    "temperatura": 1.2,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 13 ,
+    "nome": "mesa",
+    "img": "https://i.ytimg.com/vi/Fuf7FoxWoOs/maxresdefault.jpg",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 14 ,
+    "nome": "espinhos de gelo",
+    "img": "https://minecraft-seeds.net/images/seeds/images/2017.jpg",
+    "precipitacao": "neve",
+    "temperatura": 0,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 15 ,
+    "nome": "oceano congelado",
+    "img": "https://www.9minecraft.net/wp-content/uploads/2022/09/1-Frozen-Ocean-Minecraft-Seeds.webp",
+    "precipitacao": "neve",
+    "temperatura": -1,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 16 ,
+    "nome": "selva de bambu",
+    "img": "https://guide-minecraft.com/wp-content/uploads/2020/12/bamboo-forest-temple-and-village-1.jpg",
+    "precipitacao": "chuva",
+    "temperatura": 0.95,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 17 ,
+    "nome": "mangue",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/ed/Mangrove.png",
+    "precipitacao": "chuva",
+    "temperatura": 0.8,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 18 ,
+    "nome": "ilha de cogumelo",
+    "img": "https://i0.wp.com/playerassist.com/wp-content/uploads/2021/12/1-43.png?resize=766%2C397&ssl=1",
+    "precipitacao": "chuva",
+    "temperatura": 0.8,
+    "dimensao": "overworld"
+  },
+  {
+    "id: 19 ,
+    "nome": "remanescentes do nether",
+    "img": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/waste-carousel2.jpg",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "nether"
+  },
+  {
+    "id: 20 ,
+    "nome": "floresta carmesim",
+    "img": "https://pixelmon.site/images/biome/crimson-forest.jpg,
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "nether"
+  },
+  {
+    "id: 21 ,
+    "nome": "floresta distorcida",
+    "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Warped_Forest.png/revision/latest?cb=20200914173009",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "nether"
+  },
+  {
+    "id: 22 ,
+    "nome": "vale das almas",
+    "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/32/NetherCaveUpdate.png/revision/latest?cb=20200205214017",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "nether"
+  },
+  {
+    "id: 23 ,
+    "nome": "deltas de basalto",
+    "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/Basalt_Deltas.png/revision/latest?cb=20210505015812",
+    "precipitacao": "nenhuma",
+    "temperatura": 2,
+    "dimensao": "nether"
+  },
+  {
+    "id: 24 ,
+    "nome": "O Fim",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/5/5c/The_End.png",
+    "precipitacao": "nenhuma",
+    "temperatura": 0.5,
+    "dimensao": "Fim"
+  },
+  {
+    "id: 25 ,
+    "nome": "Highlands do Fim",
+    "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/End_Highlands.png/revision/latest?cb=20201019180217",
+    "precipitacao": "nenhuma",
+    "temperatura": 0.5,
+    "dimensao": "Fim"
+  },
+]
